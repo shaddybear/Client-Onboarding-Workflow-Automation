@@ -1,4 +1,4 @@
-# Client Onboarding Workflow Automation
+# Payment Data Quality Automation System
 
 ## Overview
 A personal project simulating end-to-end client onboarding workflow in BFSI. Designed to track client intake, multi-stage approvals, and ensure data quality and compliance.
